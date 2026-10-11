@@ -16,7 +16,7 @@ AI Engineer in Japan 🇯🇵 · B.Tech in CS (AI & Robotics) · Permanent Resid
 
 ## 👋 About
 
-I'm an AI Engineer working on **image classification and model evaluation** in an industrial setting. I enjoy the part after training: finding *why* a model fails, and fixing it.
+I'm an AI Engineer focused on **computer vision, image classification, and model evaluation**. I enjoy going beyond training a model: understanding why it fails, investigating prediction errors, and finding ways to improve its performance.
 
 - 🔍 **Model analysis:** Grad-CAM, top-k analysis, error investigation
 - 🎯 **Applied CV:** classification, video understanding, real-time detection
