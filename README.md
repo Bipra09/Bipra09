@@ -16,11 +16,13 @@ AI Engineer at **Intfor Co., Ltd. (T&S Group)** since April 2026 · Japan Perman
 
 ## What I work on
 
-I develop and evaluate computer vision methods for industrial applications, including image classification, semantic segmentation research, CT artifact removal, and large vision models.
+**AI Engineer · Intfor Co., Ltd. (T&S Group)** · April 2026–Present
 
-- Prepare and annotate image datasets, run augmentation experiments, and use confusion matrices and Grad-CAM to investigate model errors.
-- Benchmark model accuracy and inference speed, optimize vision-language model inference with TensorRT, and help package software for Windows and Linux.
-- Generate synthetic training data with Unreal Engine.
+- I improved image classification accuracy from **78% to 98%** by testing **more than 20 augmentation configurations** and refining the training data and model. I used Grad-CAM to investigate recurring errors, then reviewed mislabeled images, underrepresented classes, and visually similar categories.
+- I reduced inference time by **46%** with TensorRT on a large vision model (LVM) project.
+- For a CPU-only semantic segmentation project, I reviewed **more than 50 models**, benchmarked and fine-tuned candidates, and documented the recommended model for handoff.
+- I used masking to create clean training targets where no clean reference data was available, then trained a model for 3D image artifact removal.
+- I built Unreal Engine Blueprints and integrated animations from Fab to generate synthetic training data for autonomous driving.
 
 ---
 
