@@ -1,88 +1,33 @@
-<div align="center">
+# Bipra Biswas
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0A66C2,100:00C2A8&height=200&section=header&text=BIPRA%20BISWAS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20%7C%20DEEP%20LEARNING&descSize=14&descAlignY=60)
+**AI Engineer · Computer Vision and Image Processing · Japan**  
+AI Engineer at Intfor Co., Ltd. (T&S Group) since April 2026 · Permanent Resident of Japan
 
-### I turn computer vision research into reliable, working software.
+[AI portfolio and résumé](https://bipra09.github.io/New_Ai_bipra_portfolio/) · [LinkedIn](https://linkedin.com/in/bipra-biswas-b1a1b727a)
 
-AI Engineer in Japan 🇯🇵 · B.Tech in CS (AI & Robotics) · Permanent Resident
+## What I work on
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bipra09.github.io/Bipra_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bipra-biswas-b1a1b727a)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bipra.biswas309@gmail.com)
+I develop and evaluate computer vision methods for industrial applications, including image classification, semantic segmentation research, CT artifact removal, and large vision models.
 
-</div>
+- Prepare and annotate image datasets, run augmentation experiments, and use confusion matrices and Grad-CAM to investigate model errors.
+- Benchmark model accuracy and inference speed, optimize vision-language model inference with TensorRT, and help package software for Windows and Linux.
+- Generate synthetic training data with Unreal Engine.
 
----
+## Selected projects
 
-## 👋 About
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [VisionX](https://github.com/Bipra09/Anomaly-Detection-in-smart-cities) | VIT capstone that analyzes smart-city video with a locally hosted vision-language model and returns structured alerts. | Python, OpenCV, Ollama, Pydantic |
+| [K&K E-commerce](https://github.com/Bipra09/K-K_Amazon_like_ecommarce_website) | Storefront with transactional inventory and orders. GitHub Actions checks last-unit contention, rollback, repeat cancellation, and checkout in Chromium. | React, Node.js, Express, MongoDB |
+| [Crop Health Management](https://github.com/Bipra09/Crop-Health-Management) | Tomato leaf classifier covering 10 classes, with approximately 92% validation accuracy and a Gradio demo. | Python, TensorFlow, Keras, Gradio |
+| [ParkRelay](https://github.com/Bipra09/parkrelay) | Backend for parking-space allocation, vehicle check-in, ticketing, and checkout fees. | Node.js, PostgreSQL |
+| [Virtual Whiteboard](https://github.com/Bipra09/RealTime-Virtual-Whiteboard) | Webcam-based canvas that translates real-time hand gestures into drawing controls. | Python, MediaPipe, OpenCV |
+| [VoltMosaic](https://github.com/Bipra09/voltmosaic) | Simulated mobile recharge and bill payment with transaction history and retry-safe receipts. | PHP, PostgreSQL, JavaScript |
 
-I'm an AI Engineer focused on **computer vision, image classification, and model evaluation**. I enjoy going beyond training a model: understanding why it fails, investigating prediction errors, and finding ways to improve its performance.
+## Technical skills
 
-- 🔍 **Model analysis:** Grad-CAM, top-k analysis, error investigation
-- 🎯 **Applied CV:** classification, video understanding, real-time detection
-- 🧩 **End-to-end:** from model to usable app (APIs, UIs, data workflows)
+- **Computer vision** · Image classification, semantic segmentation, 3D image processing, vision-language models
+- **ML development** · Python, PyTorch, OpenCV, TensorRT, Grad-CAM, data augmentation, Unreal Engine
+- **Software and data** · Linux, Git, GitHub, GitLab, SQL, MySQL, PostgreSQL, MongoDB
 
-💼 **Now:** AI Engineer, IntIV (T&S Group), Japan, since April 2026
-🎓 **Education:** B.Tech CSE (AI & Robotics), VIT, 2025
-📫 **Open to:** AI / ML / Computer Vision engineering roles
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Also:** MediaPipe · Ollama · Gradio · Pydantic · Grad-CAM · napari · ImageJ · Jupyter · Colab
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🏙️ [**Smart-City Anomaly Detection**](https://github.com/Bipra09/Anomaly-Detection-in-smart-cities) | Locally hosted vision-language model reads surveillance video and returns structured JSON: event type, confidence, recommended action (accident, fire, violence, theft) | `Ollama` `Gemma 3` `OpenCV` `Pydantic` |
-| 🛡️ [**Violence Detection**](https://github.com/Bipra09/Violence_detection) | Real-time action recognition from body/hand landmarks with LSTM, triggering audio alerts. Custom-collected dataset | `MediaPipe` `LSTM` `TensorFlow` |
-| 🍅 [**Crop Disease Classifier**](https://github.com/Bipra09/Crop-Health-Management) | 10-class tomato-leaf disease model, **~92% val accuracy** on ~14.5K images, with a Gradio demo | `TensorFlow` `Keras` `Gradio` |
-| 🧑‍💼 [**Face Recognition Attendance**](https://github.com/Bipra09/Attendance-Management-System) | Desktop app: register, train, recognise live, export attendance to CSV/Excel | `OpenCV` `MySQL` `Tkinter` |
-| ✍️ [**Virtual Whiteboard**](https://github.com/Bipra09/RealTime-Virtual-Whiteboard) | Draw in the air with hand gestures via webcam | `MediaPipe` `OpenCV` |
-| 🛒 [**Full-Stack E-commerce**](https://github.com/Bipra09/K-K_Amazon_like_ecommarce_website) | JWT auth, cart, wishlist, orders, reviews | `React` `Node.js` `Express` |
-
----
-
-## 💼 Experience
-
-**AI Engineer · IntIV, T&S Group** · *Apr 2026 – Present · Japan*
-
-- Build and evaluate deep-learning image classifiers in an applied engineering environment
-- Diagnose model behaviour with Grad-CAM and top-k analysis to find and fix misclassifications
-- Investigate image artifacts and analysis workflows using napari and ImageJ
-
-*Project details kept general for confidentiality.*
-
----
-
-## 🌱 Currently
-
-- 📈 Going deeper into model evaluation and production-grade ML engineering
-- 🔬 Exploring ways to push classification accuracy through error analysis
-- 🤝 Looking for teams using AI to solve real problems for real users
-
-<div align="center">
-
-### Let's build something meaningful.
-
-[**Portfolio**](https://bipra09.github.io/Bipra_Portfolio/) · [**LinkedIn**](https://linkedin.com/in/bipra-biswas-b1a1b727a) · [**Email**](mailto:bipra.biswas309@gmail.com)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0A66C2,100:00C2A8&height=100&section=footer)
-
-</div>
+B.Tech in Computer Science and Engineering (AI & Robotics), Vellore Institute of Technology · Microsoft Certified: Azure Administrator Associate
