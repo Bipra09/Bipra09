@@ -41,9 +41,10 @@ I develop and evaluate computer vision methods for industrial applications, incl
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-507A04?style=flat-square&logo=nvidia&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-31343D?style=flat-square&logo=unrealengine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-343946?style=flat-square&logo=linux&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Computer vision** · Image classification, semantic segmentation, 3D image processing, vision-language models
-- **ML development** · Python, PyTorch, OpenCV, TensorRT, Grad-CAM, data augmentation, Unreal Engine
-- **Software and data** · Linux, Git, GitHub, GitLab, SQL, MySQL, PostgreSQL, MongoDB
+- **Computer vision** · Image classification, semantic segmentation, CT image processing, vision-language model evaluation
+- **ML frameworks and tools** · Python, PyTorch, OpenCV, TensorRT
+- **Synthetic data generation** · Unreal Engine, Blueprints
+- **Software and databases** · Git, GitLab, Linux, SQL, PostgreSQL, MongoDB
 
 B.Tech in Computer Science and Engineering (AI & Robotics), Vellore Institute of Technology · Microsoft Certified: Azure Administrator Associate
 
